@@ -24,12 +24,6 @@ yarn-error.log*
 #webpack
 
 .config.js
-
-package-lock.json
-package.json
-
 webpack.config.js
 webpack.dev.config.js
 webpack.prod.config.js
-
-.eslintrc.js
